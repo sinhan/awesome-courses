@@ -1,10 +1,10 @@
-# Awesome Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 Introduction
 ------------
 
-There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 
 Table of Contents
 -----------------
@@ -155,6 +155,11 @@ Courses
 	- [Lecture Notes](http://www.cs.cmu.edu/~213/schedule.html)
 	- [Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) 
 	- [Assignments](http://csapp.cs.cmu.edu/public/labs.html)
+- [15-319/619](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html) **Cloud Computing (ICS)** *Carnegie-Mellon University*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> 
+	- This project-based on-line course focuses on skill building across various aspects of cloud computing. We cover conceptual topics and provide hands-on experience through projects utilizing public cloud infrastructures (Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP)). The adoption of cloud computing services continues to grow across a variety of organizations and in many domains. Simply, cloud computing is the delivery of computing as a service over a network, whereby distributed resources and services are rented, rather than owned, by an end user as a utility.
+	- For the projects, students will work with Amazon Web Services, Microsoft Azure and Google Cloud Platform, use them to rent and provision compute resources and then program and deploy applications that run on these resources. Students will develop and evaluate virtual machine (VM) and container scaling, elasticity and load balancing solutions. In addition, students will work with cloud storage systems and learn to develop different applications using batch, iterative and stream processing frameworks. 15-619 students will have to complete an extra project which entails designing and implementing a complete web-service solution for querying big data. For the extra project, the student teams are evaluated based on the cost and performance of their web service.
+	- [Lecture Notes](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
+	- [Videos](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html) 
 - [15-418](http://15418.courses.cs.cmu.edu/spring2015/) **Parallel Computer Architecture and Programming** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
     - The goal of this course is to provide a deep understanding of the fundamental principles and engineering trade-offs involved in designing modern parallel computing systems as well as to teach parallel programming techniques necessary to effectively utilize these machines. Because writing good parallel programs requires an understanding of key machine performance characteristics, this course will cover both parallel hardware and software design.
     - [Assignments](http://15418.courses.cs.cmu.edu/spring2015/exercises)
@@ -169,6 +174,11 @@ Courses
 	- [Assignments](http://15721.courses.cs.cmu.edu/spring2016/syllabus.html)
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O)
 	- [Readings](http://15721.courses.cs.cmu.edu/spring2016/schedule.html)
+- [15-445/645](http://15445.courses.cs.cmu.edu/fall2017/) **Database Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course covers fundamental topics of DBMS, compared to CMU 15-721. 
+	- [Assignments](http://15445.courses.cs.cmu.edu/fall2017/assignments.html)
+	- [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
+	- [Readings](http://15445.courses.cs.cmu.edu/fall2017/schedule.html)
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />	
  	- A project focused course on Distributed Systems with an awesome list of readings
 	- [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
@@ -614,6 +624,10 @@ Courses
 	- [Lectures](https://work.caltech.edu/lectures.html)
 	- [Homework](https://work.caltech.edu/homeworks.html)
 	- [Textbook](https://work.caltech.edu/textbook.html)
+- [CS 189](http://www.eecs189.org/) **Introduction To Machine Learning** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Introductory ML course covering a wide range of topics: ranging from least squares to convolutional neural networks
+	- [Notes](http://www.eecs189.org/)
+	- [Homework](http://www.eecs189.org/)
 - [CS 224d](http://cs224d.stanford.edu/) **Deep Learning for Natural Language Processing** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. There are a large variety of underlying tasks and machine learning models powering NLP applications. Recently, deep learning approaches have obtained very high performance across many different NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task-specific feature engineering. In this spring quarter course students will learn to implement, train, debug, visualize and invent their own neural network models. The course provides a deep excursion into cutting-edge research in deep learning applied to NLP.
 	- [Syllabus](http://cs224d.stanford.edu/syllabus.html)
@@ -708,6 +722,11 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 	- [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus)
+- [UvA DEEP LEARNING](http://uvadlc.github.io/) **UvA Deep Learning Course** *University of Amsterdam* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
+	- [Lecture Videos & Notes](http://uvadlc.github.io/#lecture)
+	- [Practicals](http://uvadlc.github.io/#practicals)
+	- [Readings](http://uvadlc.github.io/#other-links)
 
 -------
 
@@ -860,10 +879,8 @@ and anti-analysis techniques.
     - Recommended: [Programming Abstractions](https://itunes.apple.com/us/course/programming-abstractions/id495054099)
     - [Updated courses for iOS8 - Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
     - [Updated courses for iOS9 - Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
-- [CS 223A](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743) **Introduction to Robotics** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CS 223A](https://see.stanford.edu/Course/CS223A) **Introduction to Robotics** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
-	- [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
-	- [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)
 - [CS 262a](http://www.cs.berkeley.edu/~brewer/cs262/) **Advanced Topics in Computer Systems** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- CS262a is the first semester of a year-long sequence on computer systems research, including operating systems, database systems, and Internet infrastructure systems.  The goal of the course is to cover a broad array of research topics in computer systems, and to engage you in top-flight systems research.  The first semester is devoted to basic thematic issues and underlying techniques in computer systems, while the second semester goes deeper into topics related to scalable, parallel and distributed systems.  The class is based on a discussion of important research papers and a research project.  
 	- **Parts**: Some Classics, Persistent Storage, Concurrency, Higher-Level Models, Virtual Machines, Cloud Computing, Parallel and Distributed Computing, Potpourri.   
